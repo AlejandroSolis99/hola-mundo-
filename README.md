@@ -1,5 +1,5 @@
-# hola-mundo-
-Repositorio del curso Launch X
+# Hola Mundo 
+Repositorio del curso 
 
 
 Autor: Alejandro Solis Ortega 
